@@ -1,8 +1,25 @@
-# React + Vite
+# 🐱 프로젝트 : 나만의 고양이 밈 만들기
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📌 개요
+- 랜덤으로 추출되는 고양이 이미지에 대사를 입력하여 나만의 짤을 만들 수 있는 프로젝트
 
-Currently, two official plugins are available:
+## 🛠 Skill
+![Skills](https://skillicons.dev/icons?i=js,react,vite,yarn,emotion)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 API Swagger
+- https://cataas.com/doc.html
+
+## 사용한 기술 공식 문서
+- https://ko.legacy.reactjs.org/docs/add-react-to-a-website.html#add-react-in-one-minute
+- https://babeljs.io/
+- https://ant.design/
+- https://emotion.sh/docs/introduction
+- https://github.com/public-apis/public-apis
+
+## install package
+- `yarn add @emotion/styled @emotion/react`
+
+## 📄 function name convention
+- handle ~ 이름 ~  Click/Change/Submit
+- props 로 보낼때는
+  - on ~ 이름 ~  Click/Change/Submit
